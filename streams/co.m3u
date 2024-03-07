@@ -15,6 +15,8 @@ https://video.ejeserver.com/live/verteve.m3u8
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="AzufralCanalRegional.co",Azufral Canal Regional (720p) [Not 24/7]
 https://tvlatina.live:1936/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-id="BuenisimaRadioTV.co" tvg-logo="https://i.imgur.com/679Lw8M.png" group-title="",Buenisima Radio TV
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 #EXTINF:-1 tvg-id="BluRadio.co",Blu Radio (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
 #EXTINF:-1 tvg-id="C4Television.co",C4 Televisión (720p) [Not 24/7]
